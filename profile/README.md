@@ -1,4 +1,9 @@
-## Hi there 👋
+## Hi there 👋 
+# We are learning YOLO algorithm for Biosystem Engineering
+
+
+# IPB University
+# Bogor, Indonesia
 
 <!--
 
