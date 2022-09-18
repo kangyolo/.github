@@ -1,9 +1,8 @@
 ## Hi there 👋 
 # We are learning YOLO algorithm for Biosystem Engineering
 
-These are our documetation and projects workspace at Bioinformatic Engginering Lab, IPB. We crated a simple guidances and documetations while learning YOLO algorithm based on our experiences.
+These are our documetation of our projects at Lab of Bioinformatic Engginering , IPB. We crated a simple guidances and documetations  based on our experiences.
 
-We are leaning!
 *Cheers!*
 
 Team Member:
